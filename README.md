@@ -28,6 +28,16 @@ This notebook covers different techniques to vectorize text data, turning text i
 -   **N-Grams**
 -   **TF-IDF (Term Frequency-Inverse Document Frequency)**
 
+#### ↪️ `03-word2vector.ipynb`
+
+This notebook explains and demonstrates the Word2Vec model, a popular technique for learning word embeddings. Key topics covered include:
+
+-   **Loading Pre-trained Models**: Using `gensim` to load and interact with the `word2vec-google-news-300` model.
+-   **Word Similarity**: Finding the most similar words and calculating similarity scores between words.
+-   **Semantic Relationships**: Exploring analogies and semantic relationships like "King" - "Man" + "Woman" = "Queen".
+-   **Training a Custom Model**: Training a Word2Vec model from scratch on the "Game of Thrones" book dataset.
+-   **Visualization**: Visualizing word embeddings in 2D space using PCA.
+
 ### 📝 Assignments
 
 #### 1️⃣ `01-assignment.ipynb`
