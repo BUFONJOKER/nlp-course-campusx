@@ -1,6 +1,10 @@
-# NLP Course  🚀
+# NLP Course CampusX 🚀
 
-This repository contains materials and assignments for an NLP (Natural Language Processing) course.
+Comprehensive Natural Language Processing course covering text preprocessing, vectorization techniques, word embeddings (Word2Vec), and text classification with practical hands-on notebooks and assignments using Python, NLTK, scikit-learn, and Gensim.
+
+## 📝 Course Description
+
+This repository contains a complete NLP learning journey with detailed Jupyter notebooks covering fundamental to advanced Natural Language Processing concepts. Each notebook includes theory, practical implementations, and real-world examples using popular NLP libraries and datasets.
 
 ## 📖 Notebooks
 
